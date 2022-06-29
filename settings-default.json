@@ -1,0 +1,24 @@
+{
+	"entityos":
+	{
+		"hostname": "api.entityos.cloud", 
+		"logon": "example-learn@entityos.cloud", 
+		"password": "",
+		"email": "team@entityos.cloud",
+		"testing": 
+		{
+			"status": "true",
+			"showData": "true",
+			"break": "-"
+		},
+		"convert": "true"
+	},
+	"blockchain":
+	{
+		"blockfrost":
+		{
+			"uri": "https://blockfrost.io",
+			"_projectId": ""
+		}
+	}
+}	

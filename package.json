@@ -1,0 +1,33 @@
+{
+    "type": "commonjs",
+    "name": "entityos-blockchain",
+    "version": "1.0.0",
+    "licence": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/ibcom-lab/entityos-blockchain/raw/master/LICENSE"
+        }
+    ],
+    "description": "blockchain",
+    "preferGlobal": true,
+    "main": "index.js",
+    "bin": {},
+    "author": "Mark Byers",
+    "keywords": [
+        "blockchain"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ibcom/entityos-blockchain.git"
+    },
+    "dependencies": {
+        "lodash": "*",
+        "moment": "^2.19.1",
+        "entityos": "^2.1.7",
+        "@blockfrost/blockfrost-js":"^2.0.2"
+    },
+    "engines": {
+        "node": "*"
+    }
+}
+    
